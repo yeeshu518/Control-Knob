@@ -4,7 +4,11 @@ This is a Control knob for those who want to add some extra spice in their proje
 
 A modern, smooth, customizable knob control for Windows Forms (.NET), ideal for visualizing and adjusting values like sensitivity, volume, thresholds, and more.
 
-![Preview](docs/screenshot.png) 
+![Image](https://github.com/user-attachments/assets/688d08c5-6477-4873-83cd-54261b6b89d1)
+
+![Image](https://github.com/user-attachments/assets/2ca743f7-2bd3-4146-b9ac-954b6c5294a7)
+
+![Image](https://github.com/user-attachments/assets/fb71530a-e03a-46a1-a029-5899c95f5944)
 
 ---
 
